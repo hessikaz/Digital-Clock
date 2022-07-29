@@ -1,0 +1,13 @@
+#clock {
+    font-size: 175px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 900px;
+    margin: 271px;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+body {
+    background-color:black;
+    color: white;
+}
